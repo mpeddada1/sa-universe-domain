@@ -1,0 +1,12 @@
+[submodule "google-auth-library-java"]
+	path = google-auth-library-java
+	url = git@github.com:googleapis/google-auth-library-java.git
+	branch = sajwtcreds-universe-domain
+[submodule "sdk-platform-java"]
+	path = sdk-platform-java
+	url = git@github.com:googleapis/sdk-platform-java.git
+	branch = sajc-universe-domain
+[submodule "java-bigtable"]
+	path = java-bigtable
+	url = git@github.com:googleapis/java-bigtable.git
+	branch = verify-universe-domain
